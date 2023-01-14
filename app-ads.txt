@@ -1,7 +1,7 @@
 #CCAds
 consoliads.com,0eb54a7d2a540c2c57c7109b662697bf,DIRECT
 
-
+applovin.com, 516f23bcb8142985ff3b73b4f51a6ab3, DIRECT
 
 #CUnityAds
 unity.com,1313230,DIRECT,#CUnityAds
