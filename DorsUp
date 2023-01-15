@@ -1,0 +1,13 @@
+{
+  "packagename_new_app": "null",
+  "database": "https://doorsformelon.blogspot.com/",
+  "interval_inter": 3,
+  "admob": [
+    {
+        "app_open": "ca-app-pub-3940256099942544/3419835294",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ]
+}
